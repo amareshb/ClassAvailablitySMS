@@ -1,0 +1,1 @@
+“bot:  python minSeats.py”
