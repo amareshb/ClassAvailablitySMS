@@ -1,1 +1,1 @@
-"bot:  python minSeats.py"
+worker: python minSeats.py
