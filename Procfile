@@ -1,1 +1,1 @@
-“bot:  python minSeats.py”
+"bot:  python minSeats.py"
