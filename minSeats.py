@@ -17,7 +17,7 @@ to_num = os.getenv('TO_NUMBER')
 client = Client(account_sid, auth_token)
 
 
-driver=webdriver.PhantomJS("D:/Stuff/ASU/Phantom/phantomjs-2.1.1-windows/bin/phantomjs.exe") # Insatll phantomJS from the net and put the path of the exe file here
+driver=webdriver.PhantomJS() # Insatll phantomJS from the net and put the path of the exe file here
 
 driver.implicitly_wait(4)
 trial = 0;
