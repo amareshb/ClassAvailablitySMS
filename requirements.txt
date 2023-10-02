@@ -19,5 +19,5 @@ requests==2.31.0
 selenium==3.8.0
 six==1.11.0
 twilio==6.10.0
-urllib3==1.22
+urllib3==1.26.17
 Werkzeug==0.15.3
